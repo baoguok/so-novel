@@ -3,7 +3,6 @@
   "url": "https://www.shuhaige.net/",
   "name": "书海阁小说网",
   "comment": "搜索爬取过快会丢包(Unexpected end of file from server)",
-  "type": "html",
   "language": "zh_CN",
   "search": {
     "url": "https://www.shuhaige.net/search.html",

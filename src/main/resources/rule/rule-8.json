@@ -3,7 +3,6 @@
   "url": "https://www.dxmwx.org/",
   "name": "大熊猫文学",
   "comment": "搜索无限流",
-  "type": "html",
   "language": "zh_CN",
   "search": {
     "url": "https://www.dxmwx.org/list/topall_%s.html",

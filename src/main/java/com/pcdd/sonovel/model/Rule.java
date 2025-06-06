@@ -13,11 +13,9 @@ public class Rule {
     private String url;
     private String name;
     private String comment;
-    private String type;
     private String language;
     private boolean needProxy;
     private boolean disabled;
-    private boolean ignoreSsl;
 
     private Search search;
     private Book book;
